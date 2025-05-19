@@ -34,7 +34,7 @@
 <h3>1️⃣ Clone the Repository</h3>
 <pre>
     <code>
-git clone https://github.com/YourUsername/Iran-to-International-Grades.git
+git clone https://github.com/SoranHassan/Iran-to-International-Grades.git
 cd Iran-to-International-Grades
     </code>
 </pre>
